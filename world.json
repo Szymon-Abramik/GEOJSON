@@ -10495,7 +10495,7 @@
             "properties": {
                 "NAME": "Czechia",
                 "ISO_A2": "CZ",
-                "GEOID": "Czechia"
+                "GEOID": "Czechy"
             }
         },
         {
@@ -10776,7 +10776,7 @@
             "properties": {
                 "NAME": "Latvia",
                 "ISO_A2": "LV",
-                "GEOID": "\u0141otwa"
+                "GEOID": "Łotwa"
             }
         },
         {
@@ -13570,7 +13570,7 @@
             "properties": {
                 "NAME": "Hungary",
                 "ISO_A2": "HU",
-                "GEOID": "W\u0119gry"
+                "GEOID": "Węgry"
             }
         },
         {
@@ -13625,7 +13625,7 @@
             "properties": {
                 "NAME": "Slovakia",
                 "ISO_A2": "SK",
-                "GEOID": "S\u0142owacja"
+                "GEOID": "Słowacja"
             }
         },
         {
@@ -15376,7 +15376,7 @@
             "properties": {
                 "NAME": "Italy",
                 "ISO_A2": "IT",
-                "GEOID": "W\u0142ochy"
+                "GEOID": "Włochy"
             }
         },
         {
@@ -16849,7 +16849,7 @@
             "properties": {
                 "NAME": "Slovenia",
                 "ISO_A2": "SI",
-                "GEOID": "S\u0142owenia"
+                "GEOID": "Słowenia"
             }
         },
         {
@@ -17436,7 +17436,7 @@
             "properties": {
                 "NAME": "Bulgaria",
                 "ISO_A2": "BG",
-                "GEOID": "Bu\u0142garia"
+                "GEOID": "Bułgaria"
             }
         },
         {
@@ -20305,7 +20305,7 @@
             "properties": {
                 "NAME": "Moldova",
                 "ISO_A2": "MD",
-                "GEOID": "Mo\u0142dawia"
+                "GEOID": "Mołdawia"
             }
         },
         {
@@ -22594,7 +22594,7 @@
             "properties": {
                 "NAME": "United States of America",
                 "ISO_A2": "US",
-                "GEOID": "United States of America"
+                "GEOID": "Stany Zjednoczone"
             }
         },
         {
@@ -24751,7 +24751,7 @@
             "properties": {
                 "NAME": "Canada",
                 "ISO_A2": "CA",
-                "GEOID": "Canada"
+                "GEOID": "Kanada"
             }
         },
         {
@@ -33147,7 +33147,7 @@
             "properties": {
                 "NAME": "South Korea",
                 "ISO_A2": "KR",
-                "GEOID": "Korea Po\u0142udniowa"
+                "GEOID": "Korea Poludniowa"
             }
         },
         {
